@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I am Mengdie Zhang! 
+I am a data science lover. It's a pleasure to meet you here.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Enjoy the life and Keep thirst for knowledge~~
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bell_mandy@outlook.com](mailto:bell_mandy@outlook.com)
