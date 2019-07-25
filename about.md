@@ -13,4 +13,4 @@ Enjoy the life and Keep thirst for knowledge~~
 
 ### Contact me
 
-[bell_mandy@outlook.com](mailto:bell_mandy@outlook.com)
+[mailme @.@](mailto:bell_mandy@outlook.com)
